@@ -1,1 +1,2 @@
-# nameGAme
+# synchronousBallMovement
+Ball moving synchronously
